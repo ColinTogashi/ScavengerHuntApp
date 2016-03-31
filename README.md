@@ -1,7 +1,7 @@
 # DerekHsiehApp
 Simple Scavenger Hunt App
 
-To DO:
+To Do:
   1. Finish Main Page
       - place to show number of friend requests - DONE
       - place to show any new notificaitons such as games going on
